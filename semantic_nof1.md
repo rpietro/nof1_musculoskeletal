@@ -7,6 +7,9 @@ CAT
 mixed methods
  -->
 
+
+<!-- 1. experience (satisfaction) 2. alteração prática clínica 3. conhecimento 4. engagement -->
+
 ## Abstract
 
 
